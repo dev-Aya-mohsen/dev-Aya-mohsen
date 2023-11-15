@@ -8,7 +8,8 @@
    <li>🔭 I’m currently working on <a href="https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/">Web Application</a></li>
    <li>🌱 I’m currently studing <code>Laravel</code></li>
    <li>📫 How to reach me <strong><a href="dev.aya.mohsen@gmail.com">dev.aya.mohsen@gmail.com</a></strong></li>
-    <li>👨‍💻 All of my projects are available at : <a href="https://dev-brand-mall.pantheonsite.io/">E-Commerce</a></li>   
+    <li>👨‍💻 First Project : <a href="https://dev-brand-mall.pantheonsite.io/">E-Commerce</a></li>
+    <li>👨‍💻Second project: <a href="https://dev-brand-mall.pantheonsite.io/">A Studio Landing Page</a></li> 
    <li>🤓 Always <code>learning new things</code></li>
    <li>🐼 Doing my best</li>
    </ul>
