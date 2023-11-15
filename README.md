@@ -9,7 +9,7 @@
    <li>🌱 I’m currently studing <code>Laravel</code></li>
    <li>📫 How to reach me <strong><a href="dev.aya.mohsen@gmail.com">dev.aya.mohsen@gmail.com</a></strong></li>
     <li>👨‍💻 First Project : <a href="https://dev-brand-mall.pantheonsite.io/">E-Commerce</a></li>
-    <li>👨‍💻Second project: <a href="https://dev-brand-mall.pantheonsite.io/">A Studio Landing Page</a></li> 
+    <li>👨‍💻Second project: <a href="https://dev-aia-blog.pantheonsite.io/a-studio-landing-page-copy/">A Studio Landing Page</a></li> 
    <li>🤓 Always <code>learning new things</code></li>
    <li>🐼 Doing my best</li>
    </ul>
